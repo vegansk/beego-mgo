@@ -1,0 +1,14 @@
+{
+  "name": "beego-mgo",
+  "version": "0.1",
+  "description": "This application provides a sample to use the beego web framework and the Go MongoDB driver mgo.",
+  "license": "LICENSE",
+
+  "deps": {
+      "github.com/astaxie/beego": "*",
+      "github.com/goinggo/tracelog": "*",
+      "github.com/kelseyhightower/envconfig": "*",
+      "labix.org/v2/mgo": "*",
+      "labix.org/v2/mgo/bson": "*"
+  }
+}
